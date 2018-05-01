@@ -1,0 +1,25 @@
+{
+  "name": "escapejs",
+  "version": "1.0.0",
+  "description": "Simple node module to escape/unescape HTML entities",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/asuarezgrupobme/escapejs.git"
+  },
+  "keywords": [
+    "escape",
+    "unescape",
+    "html",
+    "node"
+  ],
+  "author": "Alvaro Suarez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/asuarezgrupobme/escapejs/issues"
+  },
+  "homepage": "https://github.com/asuarezgrupobme/escapejs#readme"
+}
